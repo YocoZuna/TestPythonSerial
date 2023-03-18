@@ -1,0 +1,2 @@
+../Core/Src/ringbuffer.c:21:9:RingBufferRead	24	static
+../Core/Src/ringbuffer.c:37:6:RestartBuffor	16	static
